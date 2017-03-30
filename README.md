@@ -16,7 +16,7 @@ Installation
 using [Bower](http://bower.io/).
 
 ```bash
-bower install ng-emoji-picker --save
+bower install emoji-picker-angular --save
 ```
 
 This will install the latest release.
