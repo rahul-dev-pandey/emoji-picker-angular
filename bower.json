@@ -1,8 +1,8 @@
 {
-  "name": "ng-emoji-picker",
+  "name": "emoji-picker-angular",
   "version": "0.13.1",
-  "location": "https://github.com/kimooz/ng-emoji-picker",
-  "homepage": "https://github.com/kimooz/ng-emoji-picker",
+  "location": "https://github.com/rahul-dev-pandey/emoji-picker-angular",
+  "homepage": "https://github.com/rahul-dev-pandey/emoji-picker-angular",
   "main": [
     "js/nanoscroller.min.js",
     "js/tether.min.js",
